@@ -8,3 +8,6 @@ https://blog.csdn.net/u011965468/article/details/127740763?spm=1001.2101.3001.66
 
 2.flutter doctor  -v  最后出现http 错误（HTTP host not reachable）
 解决办法：https://blog.csdn.net/qq_40166103/article/details/125673747
+
+3.全局设置默认换行符
+设置-> code style -> Line separator
